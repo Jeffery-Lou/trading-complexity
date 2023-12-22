@@ -1,4 +1,7 @@
-pip install asshare
+import sys
+import subprocess
+# implement pip as a subprocess:
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'akshare'])
 
 import numpy as np
 import akshare as ak
