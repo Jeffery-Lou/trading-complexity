@@ -7,3 +7,4 @@ matplotlib
 streamlit-player
 streamlit-echarts
 pyecharts
+altair
