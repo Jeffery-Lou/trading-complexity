@@ -3,6 +3,7 @@ import numpy as np
 import akshare as ak
 import pandas as pd
 import streamlit as st
+import altair as alt
 
 @st.cache
 def load_data():
