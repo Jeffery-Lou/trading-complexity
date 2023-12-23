@@ -4,7 +4,6 @@ import akshare as ak
 import pandas as pd
 import streamlit as st
 
-@st.cache_data
 def load_data():
     industry_summary= ak.stock_board_industry_summary_ths()
     return industry_summary
