@@ -1,15 +1,9 @@
 akshare==1.9.10
-requests
+requests==2.28.2
 pandas
 numpy
 streamlit==1.11.1
-click==8
 matplotlib
-altair
-plotly
-PyDeck==0.7.1
-graphviz
-scipy
 streamlit-player
 streamlit-echarts
 pyecharts
